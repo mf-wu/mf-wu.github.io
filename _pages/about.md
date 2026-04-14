@@ -13,11 +13,11 @@ If you have any academic collaboration intentions, please feel free to email me 
 
 ## Education
 
-- *Sep 2023 – Present*  
+- *Sep. 2023 – Present*  
   Ph.D. in Intelligence Science and Technology, **Tongji University**, China
-- *Sep 2020 – Jun 2023*  
+- *Sep. 2020 – Jun. 2023*  
   M.Eng. in Materials Engineering, **University of Chinese Academy of Sciences**, China
-- *Sep 2016 – Jun 2020*  
+- *Sep. 2016 – Jun. 2020*  
   B.Eng. in Materials Science and Engineering, **Nanjing University of Aeronautics and Astronautics**, China
 
 ## Experience
