@@ -21,6 +21,7 @@ If you have any academic collaboration intentions, please feel free to email me 
   B.Eng. in Materials Science and Engineering, **Nanjing University of Aeronautics and Astronautics**, China
 
 ## Experience
-- *Apr. 2025 – Sep. 2025*, **Microsoft Research AI for Science**, China
+- *Apr. 2025 – Sep. 2025*  
+  Research Intern, **Microsoft Research AI for Science**, China
 
 
