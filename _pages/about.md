@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="intro-section">
-  <p class="greeting">👋 Hi there! I'm <strong>Mengfan Wu</strong></p>
+  <p class="greeting">👋 Hi there! This is <strong>Mengfan Wu</strong></p>
   <p class="role">PhD Student in Intelligence Science and Technology</p>
   <p class="affiliation">
     <a href="https://srias.tongji.edu.cn/main.htm">Shanghai Research Institute for Intelligent Autonomous Systems</a> & 
@@ -16,22 +16,44 @@ redirect_from:
     <br>
     <a href="https://www.tongji.edu.cn/">Tongji University</a>, Shanghai, China
   </p>
+  <p class="bio-short">
+    I'm a third-year PhD student working under the supervision of 
+    <a href="https://scholar.google.com.hk/citations?user=-sLwWUkAAAAJ&hl=zh-CN&oi=ao">Prof. Jie Ren</a>. 
+    My research lies at the intersection of <strong>artificial intelligence</strong> and <strong>computational materials science</strong>, 
+    focusing on data-driven approaches to accelerate the discovery of advanced functional materials.
+  </p>
 </div>
 
 ---
 
 ## 🎯 Research Focus
 
-I'm working under the supervision of [Prof. Jie Ren](https://scholar.google.com.hk/citations?user=-sLwWUkAAAAJ&hl=zh-CN&oi=ao) on developing **artificial intelligence approaches** to accelerate the design of new materials, including:
+I design machine learning frameworks to solve challenging problems in materials science, 
+spanning multiple classes of functional materials:
 
-- ⚡ **Thermoelectric materials**
-- 💡 **Optoelectronic materials**
-- 🧪 **Porous materials**
+<div class="research-areas">
+  <div class="research-card">
+    <div class="research-icon">⚡</div>
+    <div class="research-title">Thermoelectric Materials</div>
+    <div class="research-desc">Developing physics-informed machine learning models to predict lattice thermal conductivity and discover high-performance thermoelectric materials for waste heat recovery.</div>
+  </div>
+
+  <div class="research-card">
+    <div class="research-icon">💎</div>
+    <div class="research-title">Nonlinear Optical Materials</div>
+    <div class="research-desc">Designing novel UV/deep-UV NLO materials through interpretable machine learning, focusing on balancing conflicting optical properties.</div>
+  </div>
+
+  <div class="research-card">
+    <div class="research-icon">🧪</div>
+    <div class="research-title">Porous Materials</div>
+    <div class="research-desc">Applying generative models to discover zeolites and metal-organic frameworks with tailored adsorption and catalytic properties.</div>
+  </div>
+
+</div>
 
 <div class="contact-box">
-  <p>📧 If you have any academic collaboration intentions, please feel free to email me at 
-    <a href="mailto:mfwu@tongji.edu.cn">mfwu@tongji.edu.cn</a>!
-  </p>
+  <p>🤝 If you have any academic collaboration intentions, please feel free to email me at at: <a href="mailto:mfwu@tongji.edu.cn">mfwu@tongji.edu.cn</a></p>
 </div>
 
 ---
@@ -75,4 +97,177 @@ I'm working under the supervision of [Prof. Jie Ren](https://scholar.google.com.
   </div>
   <div class="experience-role">Research Intern</div>
   <div class="experience-location">China</div>
+</div>
+
+---
+
+## 📝 Selected Publications
+
+<div class="publications-list">
+
+<div class="publication-item">
+  <div class="publication-authors">
+    <span class="author-highlight">M. Wu</span><sup>#</sup>, J. Tan<sup>#</sup>, Y. Zhu, J. Ren*
+  </div>
+  <div class="publication-title">
+    KappaFormer: Physics-Aware Transformer for Lattice Thermal Conductivity via Cross-Domain Transfer Learning
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>arXiv:2604.03547</em></span>
+    <span class="publication-year">(2026)</span>
+  </div>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2604.03547" class="pub-link" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-authors">
+    <span class="author-highlight">M. Wu</span>, S. Yan, J. Ren*
+  </div>
+  <div class="publication-title">
+    Hierarchy-Boosted Funnel Learning for Identifying Semiconductors with Ultralow Lattice Thermal Conductivity
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>npj Computational Materials</em></span>
+    <span class="journal-badge jcr-top">JCR Q1 Top</span>
+    <span class="journal-if">IF=11.9</span>
+    <span class="publication-year">11, 106 (2025)</span>
+  </div>
+  <div class="publication-links">
+    <a href="https://www.nature.com/articles/s41524-025-01583-9" class="pub-link" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-authors">
+    <span class="author-highlight">M. Wu</span>, S. Zhang*, J. Ren*
+  </div>
+  <div class="publication-title">
+    AI-Empowered Digital Design of Zeolites: Progress, Challenges, and Perspectives
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>APL Materials</em></span>
+    <span class="journal-badge editor-pick">Editor's Pick</span>
+    <span class="journal-badge jcr-q2">JCR Q2</span>
+    <span class="journal-if">IF=4.5</span>
+    <span class="publication-year">13, 020601 (2025)</span>
+  </div>
+  <div class="publication-links">
+    <a href="https://pubs.aip.org/aip/apm/article/13/2/020601/3333679/AI-empowered-digital-design-of-zeolites-Progress" class="pub-link" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-authors">
+    <span class="author-highlight">M. Wu</span>, C. Xie*, S. Pan*, Z. Yang* et al.
+  </div>
+  <div class="publication-title">
+    Target-Driven Design of Deep-UV Nonlinear Optical Materials via Interpretable Machine Learning
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>Advanced Materials</em></span>
+    <span class="journal-badge jcr-top">JCR Q1 Top</span>
+    <span class="journal-if">IF=26.8</span>
+    <span class="publication-year">35, 2300848 (2023)</span>
+  </div>
+  <div class="publication-links">
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202300848" class="pub-link" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-authors">
+    <span class="author-highlight">M. Wu</span>, C. Xie*, S. Pan*, Z. Yang* et al.
+  </div>
+  <div class="publication-title">
+    From Phosphate Fluoride to Fluorophosphate: Design of Novel Ultraviolet/Deep-Ultraviolet Nonlinear Optical Materials for BePO<sub>3</sub>F with Optical Property Enhancement
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>ACS Applied Materials & Interfaces</em></span>
+    <span class="journal-badge jcr-q1">JCR Q1</span>
+    <span class="journal-if">IF=8.2</span>
+    <span class="publication-year">14, 39081 (2022)</span>
+  </div>
+  <div class="publication-links">
+    <a href="https://pubs.acs.org/doi/10.1021/acsami.2c12001" class="pub-link" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-authors">
+    J. Hu, <span class="author-highlight">M. Wu</span>*, J. Ren*
+  </div>
+  <div class="publication-title">
+    Machine Learning for the Generative Discovery of K<sup>+</sup>-Selective Porous Structures with Aluminum Sites
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>Physical Review Materials</em></span>
+    <span class="journal-badge jcr-q2">JCR Q2</span>
+    <span class="journal-if">IF=3.4</span>
+    <span class="publication-year">9, 076002 (2025)</span>
+  </div>
+  <div class="publication-links">
+    <a href="https://journals.aps.org/prmaterials/abstract/10.1103/l5mw-h2m7" class="pub-link" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-authors">
+    Y. Yun<sup>#</sup>, <span class="author-highlight">M. Wu</span><sup>#</sup>, Z. Yang, G. Li*, S. Pan*
+  </div>
+  <div class="publication-title">
+    Synergistic Machine Learning Guided Discovery of ABa<sub>3</sub>(BSe<sub>3</sub>)<sub>2</sub>X (A = Rb, Cs; X = Cl, Br, I): A Promising Family as Property-Balanced IR Functional Materials
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>Advanced Science</em></span>
+    <span class="journal-badge jcr-top">JCR Q1 Top</span>
+    <span class="journal-if">IF=14.1</span>
+    <span class="publication-year">12, 2417851 (2025)</span>
+  </div>
+  <div class="publication-links">
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202417851" class="pub-link" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-authors">
+    C. Hu<sup>#</sup>, <span class="author-highlight">M. Wu</span><sup>#</sup>, M. Zhang<sup>#</sup>, J. Han*, S. Pan* et al.
+  </div>
+  <div class="publication-title">
+    "Cation Activation": An Effective Strategy for the Enhancement of Birefringence
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>Advanced Optical Materials</em></span>
+    <span class="journal-badge jcr-q1">JCR Q1</span>
+    <span class="journal-if">IF=7.2</span>
+    <span class="publication-year">11, 2300579 (2023)</span>
+  </div>
+  <div class="publication-links">
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adom.202300579" class="pub-link" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-authors">
+    Y. Yun<sup>#</sup>, <span class="author-highlight">M. Wu</span><sup>#</sup>, C. Xie, Z. Yang, G. Li*, S. Pan*
+  </div>
+  <div class="publication-title">
+    Theoretical Prediction-Assisted Synthesis and Characterization of Infrared Nonlinear Optical Material NaSrBS<sub>3</sub>
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>Advanced Optical Materials</em></span>
+    <span class="journal-badge jcr-q1">JCR Q1</span>
+    <span class="journal-if">IF=7.2</span>
+    <span class="publication-year">11, 2300256 (2023)</span>
+  </div>
+  <div class="publication-links">
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202300256" class="pub-link" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+</div>
+
+<div style="text-align: center; margin-top: 1.5rem; color: var(--global-text-color-light);">
+  <small><sup>#</sup> Equal contribution &nbsp;|&nbsp; <sup>*</sup> Corresponding author</small>
 </div>
