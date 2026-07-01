@@ -222,6 +222,7 @@
   justify-content: space-between;
   align-items: center;
   margin-top: 0.5rem;
+  width: 100%;
 }
 
 .experience-role {
@@ -232,6 +233,7 @@
 .experience-location {
   font-size: 0.9rem;
   color: var(--global-text-color-light);
+  margin-left: auto;
 }
 
 /* Section Headings */
