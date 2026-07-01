@@ -41,3 +41,200 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   Custom Styles for Personal Homepage
+   ========================================================================== */
+
+/* Introduction Section */
+.intro-section {
+  background: linear-gradient(135deg, var(--global-thead-color) 0%, rgba(17, 153, 158, 0.05) 100%);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid var(--global-base-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.intro-section .greeting {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: var(--global-base-color);
+}
+
+.intro-section .role {
+  font-size: 1.1rem;
+  color: var(--global-text-color);
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+}
+
+.intro-section .affiliation {
+  font-size: 0.95rem;
+  color: var(--global-text-color-light);
+  line-height: 1.6;
+}
+
+/* Contact Box */
+.contact-box {
+  background-color: var(--global-thead-color);
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border: 1px solid var(--global-border-color);
+}
+
+.contact-box p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+/* Timeline Styles */
+.timeline {
+  position: relative;
+  margin: 1.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 5px;
+  bottom: 5px;
+  width: 3px;
+  background: linear-gradient(to bottom, var(--global-base-color), rgba(17, 153, 158, 0.2));
+  border-radius: 2px;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.timeline-item:last-child {
+  margin-bottom: 0;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: calc(-1.5rem - 5px);
+  top: 5px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background-color: var(--global-base-color);
+  border: 3px solid var(--global-thead-color);
+}
+
+.timeline-date {
+  font-size: 0.85rem;
+  color: var(--global-base-color);
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  font-family: monospace;
+}
+
+.timeline-degree {
+  font-weight: 600;
+  color: var(--global-text-color);
+  font-size: 1.02rem;
+}
+
+.timeline-school {
+  font-size: 0.95rem;
+  color: var(--global-text-color-light);
+}
+
+/* Experience Card */
+.experience-card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 1.5rem;
+  border: 1px solid var(--global-border-color);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.experience-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.experience-company {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--global-base-color);
+}
+
+.experience-date {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+  background-color: var(--global-thead-color);
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+}
+
+.experience-role {
+  font-weight: 500;
+  margin-top: 0.5rem;
+  color: var(--global-text-color);
+}
+
+.experience-location {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+  margin-top: 0.25rem;
+}
+
+/* Section Headings */
+.page__content h2 {
+  border-bottom: 2px solid var(--global-border-color);
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.4rem;
+}
+
+.page__content hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--global-border-color), transparent);
+  margin: 2rem 0;
+}
+
+/* Lists */
+.page__content ul {
+  padding-left: 1.2rem;
+}
+
+.page__content ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .intro-section {
+    padding: 1.25rem;
+  }
+
+  .timeline {
+    padding-left: 1rem;
+  }
+
+  .timeline-item::before {
+    left: calc(-1rem - 5px);
+    width: 11px;
+    height: 11px;
+  }
+}

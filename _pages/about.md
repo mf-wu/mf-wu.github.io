@@ -7,20 +7,72 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! This is Mengfan Wu, a PhD student from [Shanghai Research Institute for Intelligent Autonomous Systems](https://srias.tongji.edu.cn/main.htm) & [School of Physics Science and Engineering](https://physics.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), with [Prof. Jie Ren](https://scholar.google.com.hk/citations?user=-sLwWUkAAAAJ&hl=zh-CN&oi=ao) as my supervisor. My current research focuses on developing artificial intelligence approaches to accelerate the design of new materials, including thermoelectric, optoelectronic, and porous materials.
+<div class="intro-section">
+  <p class="greeting">👋 Hi there! I'm <strong>Mengfan Wu</strong></p>
+  <p class="role">PhD Student in Intelligence Science and Technology</p>
+  <p class="affiliation">
+    <a href="https://srias.tongji.edu.cn/main.htm">Shanghai Research Institute for Intelligent Autonomous Systems</a> & 
+    <a href="https://physics.tongji.edu.cn/">School of Physics Science and Engineering</a>
+    <br>
+    <a href="https://www.tongji.edu.cn/">Tongji University</a>, Shanghai, China
+  </p>
+</div>
 
-If you have any academic collaboration intentions, please feel free to email me at [mfwu@tongji.edu.cn](mfwu@tongji.edu.cn)!
+---
 
-## Education
-- *Sep. 2023 – Present*  
-  Ph.D. in Intelligence Science and Technology, **Tongji University**, China
-- *Sep. 2020 – Jun. 2023*  
-  M.Eng. in Materials Engineering, **University of Chinese Academy of Sciences**, China
-- *Sep. 2016 – Jun. 2020*  
-  B.Eng. in Materials Science and Engineering, **Nanjing University of Aeronautics and Astronautics**, China
+## 🎯 Research Focus
 
-## Experience
-- *Apr. 2025 – Sep. 2025*  
-  Research Intern, **Microsoft Research AI for Science**, China
+I'm working under the supervision of [Prof. Jie Ren](https://scholar.google.com.hk/citations?user=-sLwWUkAAAAJ&hl=zh-CN&oi=ao) on developing **artificial intelligence approaches** to accelerate the design of new materials, including:
 
+- ⚡ **Thermoelectric materials**
+- 💡 **Optoelectronic materials**
+- 🧪 **Porous materials**
 
+<div class="contact-box">
+  <p>📧 If you have any academic collaboration intentions, please feel free to email me at 
+    <a href="mailto:mfwu@tongji.edu.cn">mfwu@tongji.edu.cn</a>!
+  </p>
+</div>
+
+---
+
+## 🎓 Education
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">Sep. 2023 – Present</div>
+    <div class="timeline-content">
+      <div class="timeline-degree">Ph.D. in Intelligence Science and Technology</div>
+      <div class="timeline-school">Tongji University, China</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">Sep. 2020 – Jun. 2023</div>
+    <div class="timeline-content">
+      <div class="timeline-degree">M.Eng. in Materials Engineering</div>
+      <div class="timeline-school">University of Chinese Academy of Sciences, China</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">Sep. 2016 – Jun. 2020</div>
+    <div class="timeline-content">
+      <div class="timeline-degree">B.Eng. in Materials Science and Engineering</div>
+      <div class="timeline-school">Nanjing University of Aeronautics and Astronautics, China</div>
+    </div>
+  </div>
+</div>
+
+---
+
+## 💼 Experience
+
+<div class="experience-card">
+  <div class="experience-header">
+    <span class="experience-company">Microsoft Research AI for Science</span>
+    <span class="experience-date">Apr. 2025 – Sep. 2025</span>
+  </div>
+  <div class="experience-role">Research Intern</div>
+  <div class="experience-location">China</div>
+</div>
