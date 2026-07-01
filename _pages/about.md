@@ -8,52 +8,25 @@ redirect_from:
 ---
 
 <div class="intro-section">
-  <p class="greeting">👋 Hi there! This is <strong>Mengfan Wu</strong></p>
-  <p class="role">PhD Student in Intelligence Science and Technology</p>
-  <p class="affiliation">
+  <p class="greeting">👋 Hi there! I'm <strong>Mengfan Wu</strong></p>
+  <p class="bio-full">
+    I'm a third-year PhD student in Intelligence Science and Technology at 
     <a href="https://srias.tongji.edu.cn/main.htm">Shanghai Research Institute for Intelligent Autonomous Systems</a> & 
-    <a href="https://physics.tongji.edu.cn/">School of Physics Science and Engineering</a>
-    <br>
-    <a href="https://www.tongji.edu.cn/">Tongji University</a>, Shanghai, China
+    <a href="https://physics.tongji.edu.cn/">School of Physics Science and Engineering</a>, 
+    <a href="https://www.tongji.edu.cn/">Tongji University</a>, Shanghai, China, 
+    working under the supervision of 
+    <a href="https://scholar.google.com.hk/citations?user=-sLwWUkAAAAJ&hl=zh-CN&oi=ao">Prof. Jie Ren</a>.
   </p>
-  <p class="bio-short">
-    I'm a third-year PhD student working under the supervision of 
-    <a href="https://scholar.google.com.hk/citations?user=-sLwWUkAAAAJ&hl=zh-CN&oi=ao">Prof. Jie Ren</a>. 
+  <p class="research-focus">
     My research lies at the intersection of <strong>artificial intelligence</strong> and <strong>computational materials science</strong>, 
-    focusing on data-driven approaches to accelerate the discovery of advanced functional materials.
+    focusing on developing data-driven approaches to accelerate the discovery of advanced functional materials, 
+    spanning multiple fields:
   </p>
-</div>
-
----
-
-## 🎯 Research Focus
-
-I design machine learning frameworks to solve challenging problems in materials science, 
-spanning multiple classes of functional materials:
-
-<div class="research-areas">
-  <div class="research-card">
-    <div class="research-icon">⚡</div>
-    <div class="research-title">Thermoelectric Materials</div>
-    <div class="research-desc">Developing physics-informed machine learning models to predict lattice thermal conductivity and discover high-performance thermoelectric materials for waste heat recovery.</div>
-  </div>
-
-  <div class="research-card">
-    <div class="research-icon">💎</div>
-    <div class="research-title">Nonlinear Optical Materials</div>
-    <div class="research-desc">Designing novel UV/deep-UV NLO materials through interpretable machine learning, focusing on balancing conflicting optical properties.</div>
-  </div>
-
-  <div class="research-card">
-    <div class="research-icon">🧪</div>
-    <div class="research-title">Porous Materials</div>
-    <div class="research-desc">Applying generative models to discover zeolites and metal-organic frameworks with tailored adsorption and catalytic properties.</div>
-  </div>
-
-</div>
-
-<div class="contact-box">
-  <p>🤝 If you have any academic collaboration intentions, please feel free to email me at at: <a href="mailto:mfwu@tongji.edu.cn">mfwu@tongji.edu.cn</a></p>
+  <ul class="research-topics">
+    <li>⚡ Thermoelectric Materials</li>
+    <li>💎 Nonlinear Optical Materials</li>
+    <li>🧪 Porous Materials</li>
+  </ul>
 </div>
 
 ---
@@ -95,8 +68,10 @@ spanning multiple classes of functional materials:
     <span class="experience-company">Microsoft Research AI for Science</span>
     <span class="experience-date">Apr. 2025 – Sep. 2025</span>
   </div>
-  <div class="experience-role">Research Intern</div>
-  <div class="experience-location">China</div>
+  <div class="experience-footer">
+    <span class="experience-role">Research Intern</span>
+    <span class="experience-location">Shanghai, China</span>
+  </div>
 </div>
 
 ---

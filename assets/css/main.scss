@@ -63,31 +63,49 @@
   color: var(--global-base-color);
 }
 
-.intro-section .role {
-  font-size: 1.1rem;
-  color: var(--global-text-color);
-  font-weight: 500;
-  margin-bottom: 0.75rem;
-}
 
-.intro-section .affiliation {
+.intro-section .bio-full {
   font-size: 0.95rem;
-  color: var(--global-text-color-light);
-  line-height: 1.6;
-}
-
-.intro-section .bio-short {
-  margin-top: 1rem;
-  padding-top: 1rem;
-  border-top: 1px solid rgba(17, 153, 158, 0.15);
-  font-size: 0.95rem;
-  line-height: 1.65;
+  line-height: 1.7;
   color: var(--global-text-color);
+  margin: 0.75rem 0 0.5rem 0;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(17, 153, 158, 0.12);
 }
 
-.intro-section .bio-short a {
+.intro-section .bio-full a {
   color: var(--global-base-color);
   font-weight: 500;
+}
+
+.intro-section .research-focus {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--global-text-color-light);
+  margin: 0;
+}
+
+.intro-section .research-focus strong {
+  color: var(--global-text-color);
+  font-weight: 600;
+}
+
+.research-topics {
+  margin: 0.75rem 0 0 0;
+  padding-left: 1.5rem;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+}
+
+.research-topics li {
+  font-size: 0.9rem;
+  color: var(--global-base-color);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
 }
 
 /* Contact Box */
@@ -199,16 +217,21 @@
   border-radius: 20px;
 }
 
+.experience-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
 .experience-role {
   font-weight: 500;
-  margin-top: 0.5rem;
   color: var(--global-text-color);
 }
 
 .experience-location {
   font-size: 0.9rem;
   color: var(--global-text-color-light);
-  margin-top: 0.25rem;
 }
 
 /* Section Headings */
