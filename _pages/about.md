@@ -22,10 +22,14 @@ redirect_from:
     spanning multiple fields:
   </p>
   <ul class="research-topics">
-    <li>⚡ Thermoelectric Materials</li>
+    <li>⚡ Phonon Thermal Materials</li>
     <li>💎 Nonlinear Optical Materials</li>
     <li>🧪 Porous Materials</li>
   </ul>
+</div>
+
+<div class="contact-box">
+  <p>🤝 If you have any academic collaboration intentions, please feel free to email me at: <a href="mailto:mfwu@tongji.edu.cn">mfwu@tongji.edu.cn</a></p>
 </div>
 
 ---
