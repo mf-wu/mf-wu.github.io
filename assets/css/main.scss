@@ -92,11 +92,8 @@
 
 .research-topics {
   margin: 0.75rem 0 0 0;
-  padding-left: 1.5rem;
+  padding-left: 0;
   list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem 1.25rem;
 }
 
 .research-topics li {
@@ -106,6 +103,11 @@
   display: flex;
   align-items: center;
   gap: 0.35rem;
+  margin-bottom: 0.35rem;
+}
+
+.research-topics li:last-child {
+  margin-bottom: 0;
 }
 
 /* Contact Box */
@@ -178,6 +180,47 @@
 .timeline-school {
   font-size: 0.95rem;
   color: var(--global-text-color-light);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* School/Company Logos - Image Version */
+.school-logo,
+.company-logo {
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-shrink: 0;
+}
+
+.school-logo.tongji {
+  background-image: url("../images/logos/tongji.png");
+}
+
+.school-logo.ucas {
+  background-image: url("../images/logos/ucas.png");
+}
+
+.school-logo.nuaa {
+  background-image: url("../images/logos/nuaa.png");
+}
+
+.company-logo.microsoft {
+  background-image: url("../images/logos/microsoft.png");
+}
+
+/* Update experience company to align logo */
+.experience-company {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--global-base-color);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
 }
 
 /* Experience Card */

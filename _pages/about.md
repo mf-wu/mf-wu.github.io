@@ -8,13 +8,12 @@ redirect_from:
 ---
 
 <div class="intro-section">
-  <p class="greeting">👋 Hi there! I'm <strong>Mengfan Wu</strong></p>
+  <p class="greeting">👋 Hi there! This is <strong>Mengfan Wu</strong></p>
   <p class="bio-full">
-    I'm a third-year PhD student in Intelligence Science and Technology at 
+    I'm a third-year PhD student in Intelligence Science and Technology from 
     <a href="https://srias.tongji.edu.cn/main.htm">Shanghai Research Institute for Intelligent Autonomous Systems</a> & 
-    <a href="https://physics.tongji.edu.cn/">School of Physics Science and Engineering</a>, 
-    <a href="https://www.tongji.edu.cn/">Tongji University</a>, Shanghai, China, 
-    working under the supervision of 
+    <a href="https://physics.tongji.edu.cn/">School of Physics Science and Engineering</a> at
+    <a href="https://www.tongji.edu.cn/">Tongji University</a>, working under the supervision of 
     <a href="https://scholar.google.com.hk/citations?user=-sLwWUkAAAAJ&hl=zh-CN&oi=ao">Prof. Jie Ren</a>.
   </p>
   <p class="research-focus">
@@ -38,7 +37,10 @@ redirect_from:
     <div class="timeline-date">Sep. 2023 – Present</div>
     <div class="timeline-content">
       <div class="timeline-degree">Ph.D. in Intelligence Science and Technology</div>
-      <div class="timeline-school">Tongji University, China</div>
+      <div class="timeline-school">
+        <span class="school-logo tongji"></span>
+        Tongji University, China
+      </div>
     </div>
   </div>
 
@@ -46,7 +48,10 @@ redirect_from:
     <div class="timeline-date">Sep. 2020 – Jun. 2023</div>
     <div class="timeline-content">
       <div class="timeline-degree">M.Eng. in Materials Engineering</div>
-      <div class="timeline-school">University of Chinese Academy of Sciences, China</div>
+      <div class="timeline-school">
+        <span class="school-logo ucas"></span>
+        University of Chinese Academy of Sciences, China
+      </div>
     </div>
   </div>
 
@@ -54,7 +59,10 @@ redirect_from:
     <div class="timeline-date">Sep. 2016 – Jun. 2020</div>
     <div class="timeline-content">
       <div class="timeline-degree">B.Eng. in Materials Science and Engineering</div>
-      <div class="timeline-school">Nanjing University of Aeronautics and Astronautics, China</div>
+      <div class="timeline-school">
+        <span class="school-logo nuaa"></span>
+        Nanjing University of Aeronautics and Astronautics, China
+      </div>
     </div>
   </div>
 </div>
@@ -65,7 +73,10 @@ redirect_from:
 
 <div class="experience-card">
   <div class="experience-header">
-    <span class="experience-company">Microsoft Research AI for Science</span>
+    <span class="experience-company">
+      <span class="company-logo microsoft"></span>
+      Microsoft Research AI for Science
+    </span>
     <span class="experience-date">Apr. 2025 – Sep. 2025</span>
   </div>
   <div class="experience-footer">
