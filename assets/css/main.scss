@@ -497,6 +497,13 @@
   transform: translateY(-2px);
 }
 
+/* Oval Avatar for Portrait Photo */
+.author__avatar img {
+  border-radius: 45% / 55% !important;  /* 椭圆形状 */
+  object-fit: cover !important;         /* 确保图片填满不拉伸 */
+  aspect-ratio: 3/4;                    /* 人像比例 */
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .intro-section {
