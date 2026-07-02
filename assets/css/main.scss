@@ -92,17 +92,14 @@
 
 .research-topics {
   margin: 0.75rem 0 0 0;
-  padding-left: 0;
-  list-style: none;
+  padding-left: 1.5rem;
+  list-style: disc;
 }
 
 .research-topics li {
   font-size: 0.9rem;
   color: var(--global-base-color);
   font-weight: 500;
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
   margin-bottom: 0.35rem;
 }
 
