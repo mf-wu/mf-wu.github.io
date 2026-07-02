@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="intro-section">
+<div id="about-me" class="intro-section">
   <p class="greeting">👋 Hi there! This is <strong>Mengfan Wu</strong></p>
   <p class="bio-full">
     I'm a third-year PhD student in Intelligence Science and Technology from 
@@ -22,9 +22,9 @@ redirect_from:
     spanning multiple fields:
   </p>
   <ul class="research-topics">
-    <li>⚡ Phonon Thermal Materials</li>
-    <li>💎 Nonlinear Optical Materials</li>
-    <li>🧪 Porous Materials</li>
+    <li>Phonon Thermal Materials</li>
+    <li>Nonlinear Optical Materials</li>
+    <li>Porous Materials</li>
   </ul>
 </div>
 
@@ -34,6 +34,7 @@ redirect_from:
 
 ---
 
+<div id="education"></div>
 ## 🎓 Education
 
 <div class="timeline">
@@ -73,6 +74,7 @@ redirect_from:
 
 ---
 
+<div id="experience"></div>
 ## 💼 Experience
 
 <div class="experience-card">
@@ -91,6 +93,7 @@ redirect_from:
 
 ---
 
+<div id="selected-publications"></div>
 ## 📝 Selected Publications
 
 <div class="publications-list">

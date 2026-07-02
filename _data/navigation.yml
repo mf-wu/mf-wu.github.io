@@ -5,17 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About me"
+    url: /#about-me
 
-  - title: "Research"
-    url: /portfolio/
+  - title: "Education"
+    url: /#education
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Experience"
+    url: /#experience
 
-  - title: "Blog"
-    url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
+  - title: "Selected Publications"
+    url: /#selected-publications
