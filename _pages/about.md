@@ -17,7 +17,7 @@ redirect_from:
     <a href="https://scholar.google.com.hk/citations?user=-sLwWUkAAAAJ&hl=zh-CN&oi=ao">Prof. Jie Ren</a>.
   </p>
   <p class="research-focus">
-    My research lies at the intersection of <strong>artificial intelligence</strong> and <strong>computational materials science</strong>, 
+    My research lies at the intersection of <strong>artificial intelligence</strong>, <strong>computational materials</strong>, and <strong>condensed matter physics</strong>,
     focusing on developing data-driven approaches to accelerate the discovery of advanced functional materials, 
     spanning multiple fields:
   </p>
