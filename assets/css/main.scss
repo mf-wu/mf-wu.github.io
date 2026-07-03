@@ -172,22 +172,32 @@
   font-weight: 600;
   color: var(--global-text-color);
   font-size: 1.02rem;
+  margin-bottom: 0;
 }
 
-.timeline-school {
-  font-size: 0.95rem;
-  color: var(--global-text-color-light);
+.timeline-school-with-logo {
   display: flex;
   align-items: center;
   gap: 0.75rem;
+}
+
+.timeline-school-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.timeline-school-name {
+  font-size: 0.95rem;
+  color: var(--global-text-color-light);
   line-height: 1.4;
 }
 
 /* School/Company Logos - Image Version */
 .school-logo,
 .company-logo {
-  width: 36px;
-  height: 36px;
+  width: 42px;
+  height: 42px;
   display: inline-block;
   background-size: contain;
   background-repeat: no-repeat;
@@ -212,14 +222,30 @@
 }
 
 /* Update experience company to align logo */
-.experience-company {
-  font-weight: 600;
-  font-size: 1.05rem;
-  color: var(--global-base-color);
+.experience-company-with-logo {
   display: flex;
   align-items: center;
   gap: 0.75rem;
+}
+
+.experience-company-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.experience-company-name {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--global-base-color);
   line-height: 1.4;
+}
+
+.experience-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.25rem;
 }
 
 /* Experience Card */
@@ -255,23 +281,15 @@
   border-radius: 20px;
 }
 
-.experience-footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 0.5rem;
-  width: 100%;
-}
-
 .experience-role {
   font-weight: 500;
   color: var(--global-text-color);
+  font-size: 0.9rem;
 }
 
 .experience-location {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--global-text-color-light);
-  margin-left: auto;
 }
 
 /* Section Headings */

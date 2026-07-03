@@ -41,10 +41,12 @@ redirect_from:
   <div class="timeline-item">
     <div class="timeline-date">Sep. 2023 – Present</div>
     <div class="timeline-content">
-      <div class="timeline-degree">Ph.D. in Intelligence Science and Technology</div>
-      <div class="timeline-school">
+      <div class="timeline-school-with-logo">
         <span class="school-logo tongji"></span>
-        Tongji University, China
+        <div class="timeline-school-text">
+          <div class="timeline-degree">Ph.D. in Intelligence Science and Technology</div>
+          <div class="timeline-school-name">Tongji University, China</div>
+        </div>
       </div>
     </div>
   </div>
@@ -52,10 +54,12 @@ redirect_from:
   <div class="timeline-item">
     <div class="timeline-date">Sep. 2020 – Jun. 2023</div>
     <div class="timeline-content">
-      <div class="timeline-degree">M.Eng. in Materials Engineering</div>
-      <div class="timeline-school">
+      <div class="timeline-school-with-logo">
         <span class="school-logo ucas"></span>
-        University of Chinese Academy of Sciences, China
+        <div class="timeline-school-text">
+          <div class="timeline-degree">M.Eng. in Materials Engineering</div>
+          <div class="timeline-school-name">University of Chinese Academy of Sciences, China</div>
+        </div>
       </div>
     </div>
   </div>
@@ -63,10 +67,12 @@ redirect_from:
   <div class="timeline-item">
     <div class="timeline-date">Sep. 2016 – Jun. 2020</div>
     <div class="timeline-content">
-      <div class="timeline-degree">B.Eng. in Materials Science and Engineering</div>
-      <div class="timeline-school">
+      <div class="timeline-school-with-logo">
         <span class="school-logo nuaa"></span>
-        Nanjing University of Aeronautics and Astronautics, China
+        <div class="timeline-school-text">
+          <div class="timeline-degree">B.Eng. in Materials Science and Engineering</div>
+          <div class="timeline-school-name">Nanjing University of Aeronautics and Astronautics, China</div>
+        </div>
       </div>
     </div>
   </div>
@@ -79,15 +85,17 @@ redirect_from:
 
 <div class="experience-card">
   <div class="experience-header">
-    <span class="experience-company">
+    <div class="experience-company-with-logo">
       <span class="company-logo microsoft"></span>
-      Microsoft Research AI for Science
-    </span>
-    <span class="experience-date">Apr. 2025 – Sep. 2025</span>
-  </div>
-  <div class="experience-footer">
-    <span class="experience-role">Research Intern</span>
-    <span class="experience-location">Shanghai, China</span>
+      <div class="experience-company-text">
+        <div class="experience-company-name">Microsoft Research AI for Science</div>
+        <div class="experience-role">Research Intern</div>
+      </div>
+    </div>
+    <div class="experience-right">
+      <span class="experience-date">Apr. 2025 – Sep. 2025</span>
+      <span class="experience-location">Shanghai, China</span>
+    </div>
   </div>
 </div>
 
