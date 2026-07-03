@@ -18,7 +18,7 @@ redirect_from:
   </p>
   <p class="research-focus">
     My research lies at the intersection of <strong>artificial intelligence</strong>, <strong>computational materials</strong>, and <strong>condensed matter physics</strong>.
-    Leveraging and <strong>interpretable machine learning</strong>, <strong>graph neural network</strong>, and <strong>machine learning potential</strong>,
+    Leveraging <strong>interpretable machine learning</strong>, <strong>graph neural network</strong>, and <strong>machine learning potential</strong>,
     I develop data-driven frameworks to accelerate the discovery of advanced functional materials.
     Currently, I'm exploring the frontiers of <strong>Agentic AI</strong> to build next-generation autonomous materials discovery systems,
     spanning multiple application domains:
