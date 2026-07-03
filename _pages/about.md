@@ -44,8 +44,8 @@ redirect_from:
       <div class="timeline-school-with-logo">
         <span class="school-logo tongji"></span>
         <div class="timeline-school-text">
-          <div class="timeline-degree">Ph.D. in Intelligence Science and Technology</div>
           <div class="timeline-school-name">Tongji University, China</div>
+          <div class="timeline-degree">Ph.D. in Intelligence Science and Technology</div>
         </div>
       </div>
     </div>
@@ -57,8 +57,8 @@ redirect_from:
       <div class="timeline-school-with-logo">
         <span class="school-logo ucas"></span>
         <div class="timeline-school-text">
-          <div class="timeline-degree">M.Eng. in Materials Engineering</div>
           <div class="timeline-school-name">University of Chinese Academy of Sciences, China</div>
+          <div class="timeline-degree">M.Eng. in Materials Engineering</div>
         </div>
       </div>
     </div>
@@ -70,8 +70,8 @@ redirect_from:
       <div class="timeline-school-with-logo">
         <span class="school-logo nuaa"></span>
         <div class="timeline-school-text">
-          <div class="timeline-degree">B.Eng. in Materials Science and Engineering</div>
           <div class="timeline-school-name">Nanjing University of Aeronautics and Astronautics, China</div>
+          <div class="timeline-degree">B.Eng. in Materials Science and Engineering</div>
         </div>
       </div>
     </div>
