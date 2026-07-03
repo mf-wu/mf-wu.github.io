@@ -173,24 +173,26 @@
   color: var(--global-text-color);
   font-size: 1.02rem;
   margin-bottom: 0;
+  line-height: 1.2;
 }
 
 .timeline-school-with-logo {
   display: flex;
-  align-items: center;
+  align-items: stretch;
   gap: 0.75rem;
 }
 
 .timeline-school-text {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  justify-content: space-between;
+  min-height: 42px;
 }
 
 .timeline-school-name {
   font-size: 0.95rem;
   color: var(--global-text-color-light);
-  line-height: 1.4;
+  line-height: 1.2;
 }
 
 /* School/Company Logos - Image Version */
@@ -224,28 +226,30 @@
 /* Update experience company to align logo */
 .experience-company-with-logo {
   display: flex;
-  align-items: center;
+  align-items: stretch;
   gap: 0.75rem;
 }
 
 .experience-company-text {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  justify-content: space-between;
+  min-height: 42px;
 }
 
 .experience-company-name {
   font-weight: 600;
   font-size: 1.05rem;
   color: var(--global-base-color);
-  line-height: 1.4;
+  line-height: 1.2;
 }
 
 .experience-right {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  gap: 0.25rem;
+  justify-content: space-between;
+  min-height: 42px;
 }
 
 /* Experience Card */
@@ -266,7 +270,7 @@
 .experience-header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   flex-wrap: wrap;
   gap: 0.5rem;
 }
@@ -279,17 +283,20 @@
   background-color: var(--global-thead-color);
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
+  line-height: 1.2;
 }
 
 .experience-role {
   font-weight: 500;
   color: var(--global-text-color);
   font-size: 0.9rem;
+  line-height: 1.2;
 }
 
 .experience-location {
   font-size: 0.85rem;
   color: var(--global-text-color-light);
+  line-height: 1.2;
 }
 
 /* Section Headings */
