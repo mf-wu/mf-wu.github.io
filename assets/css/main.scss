@@ -139,10 +139,9 @@ $hairline-2 : #f1f1f1;
   background: transparent;
   border: none;
   border-top: 1px solid $hairline;
-  border-bottom: 1px solid $hairline;
   border-radius: 0;
-  padding: 0.9rem 0;
-  margin: 1.75rem 0;
+  padding: 0.9rem 0 0;
+  margin: 1.75rem 0 0;
 }
 
 .contact-box p {
@@ -177,13 +176,6 @@ $hairline-2 : #f1f1f1;
   flex: 1;
   height: 1px;
   background-color: $hairline;
-}
-
-.page__content hr {
-  border: none;
-  height: 1px;
-  background-color: $hairline-2;
-  margin: 0;
 }
 
 /* Links: quiet underlines, only on interaction */
@@ -446,24 +438,14 @@ $hairline-2 : #f1f1f1;
 }
 
 .journal-badge {
-  display: inline-block;
-  font-size: 0.68rem;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  padding: 0.12rem 0.5rem;
-  border-radius: 3px;
-  margin-right: 0.4rem;
-  font-weight: 500;
-  background: transparent;
   color: $faint;
-  border: 1px solid $hairline;
+  font-weight: 400;
+  margin-right: 0.55rem;
 }
 
 .journal-if {
-  font-size: 0.78rem;
   color: $faint;
   font-weight: 400;
-  margin-right: 0.5rem;
 }
 
 .publication-year {

@@ -33,8 +33,6 @@ redirect_from:
   <p>For academic collaboration, please feel free to email me at <a href="mailto:mfwu@tongji.edu.cn">mfwu@tongji.edu.cn</a></p>
 </div>
 
----
-
 <div id="education"></div>
 ## Education
 
@@ -79,8 +77,6 @@ redirect_from:
   </div>
 </div>
 
----
-
 <div id="experience"></div>
 ## Experience
 
@@ -99,8 +95,6 @@ redirect_from:
     </div>
   </div>
 </div>
-
----
 
 <div id="selected-publications"></div>
 ## Selected Publications
@@ -132,9 +126,9 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>npj Computational Materials</em></span>
-    <span class="journal-badge jcr-top">JCR Q1 Top</span>
+    <span class="publication-year">11, 106 (2025)</span>.
+    <span class="journal-badge">JCR Q1 Top</span>
     <span class="journal-if">IF=11.9</span>
-    <span class="publication-year">11, 106 (2025)</span>
   </div>
   <div class="publication-links">
     <a href="https://www.nature.com/articles/s41524-025-01583-9" class="pub-link" target="_blank">Paper ↗</a>
@@ -150,10 +144,10 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>APL Materials</em></span>
-    <span class="journal-badge editor-pick">Editor's Pick</span>
-    <span class="journal-badge jcr-q2">JCR Q2</span>
+    <span class="publication-year">13, 020601 (2025)</span>.
+    <span class="journal-badge">Editor's Pick</span>
+    <span class="journal-badge">JCR Q2</span>
     <span class="journal-if">IF=4.5</span>
-    <span class="publication-year">13, 020601 (2025)</span>
   </div>
   <div class="publication-links">
     <a href="https://pubs.aip.org/aip/apm/article/13/2/020601/3333679/AI-empowered-digital-design-of-zeolites-Progress" class="pub-link" target="_blank">Paper ↗</a>
@@ -169,9 +163,9 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Advanced Materials</em></span>
-    <span class="journal-badge jcr-top">JCR Q1 Top</span>
+    <span class="publication-year">35, 2300848 (2023)</span>.
+    <span class="journal-badge">JCR Q1 Top</span>
     <span class="journal-if">IF=26.8</span>
-    <span class="publication-year">35, 2300848 (2023)</span>
   </div>
   <div class="publication-links">
     <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202300848" class="pub-link" target="_blank">Paper ↗</a>
@@ -187,9 +181,9 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>ACS Applied Materials & Interfaces</em></span>
-    <span class="journal-badge jcr-q1">JCR Q1</span>
+    <span class="publication-year">14, 39081 (2022)</span>.
+    <span class="journal-badge">JCR Q1</span>
     <span class="journal-if">IF=8.2</span>
-    <span class="publication-year">14, 39081 (2022)</span>
   </div>
   <div class="publication-links">
     <a href="https://pubs.acs.org/doi/10.1021/acsami.2c12001" class="pub-link" target="_blank">Paper ↗</a>
@@ -205,9 +199,9 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Physical Review Materials</em></span>
-    <span class="journal-badge jcr-q2">JCR Q2</span>
+    <span class="publication-year">9, 076002 (2025)</span>.
+    <span class="journal-badge">JCR Q2</span>
     <span class="journal-if">IF=3.4</span>
-    <span class="publication-year">9, 076002 (2025)</span>
   </div>
   <div class="publication-links">
     <a href="https://journals.aps.org/prmaterials/abstract/10.1103/l5mw-h2m7" class="pub-link" target="_blank">Paper ↗</a>
@@ -223,9 +217,9 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Advanced Science</em></span>
-    <span class="journal-badge jcr-top">JCR Q1 Top</span>
+    <span class="publication-year">12, 2417851 (2025)</span>.
+    <span class="journal-badge">JCR Q1 Top</span>
     <span class="journal-if">IF=14.1</span>
-    <span class="publication-year">12, 2417851 (2025)</span>
   </div>
   <div class="publication-links">
     <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202417851" class="pub-link" target="_blank">Paper ↗</a>
@@ -241,9 +235,9 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Advanced Optical Materials</em></span>
-    <span class="journal-badge jcr-q1">JCR Q1</span>
+    <span class="publication-year">11, 2300579 (2025)</span>.
+    <span class="journal-badge">JCR Q1</span>
     <span class="journal-if">IF=7.2</span>
-    <span class="publication-year">11, 2300579 (2023)</span>
   </div>
   <div class="publication-links">
     <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adom.202300579" class="pub-link" target="_blank">Paper ↗</a>
@@ -259,9 +253,9 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Advanced Optical Materials</em></span>
-    <span class="journal-badge jcr-q1">JCR Q1</span>
+    <span class="publication-year">11, 2300256 (2023)</span>.
+    <span class="journal-badge">JCR Q1</span>
     <span class="journal-if">IF=7.2</span>
-    <span class="publication-year">11, 2300256 (2023)</span>
   </div>
   <div class="publication-links">
     <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202300256" class="pub-link" target="_blank">Paper ↗</a>
