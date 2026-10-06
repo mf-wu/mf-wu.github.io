@@ -48,11 +48,11 @@
 
 /* Introduction Section */
 .intro-section {
-  background: linear-gradient(135deg, var(--global-thead-color) 0%, rgba(17, 153, 158, 0.05) 100%);
+  background: #ffffff;
   border-radius: 12px;
   padding: 2rem;
   margin-bottom: 2rem;
-  border-left: 4px solid var(--global-base-color);
+  border: 1px solid #e6e6e6;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
@@ -70,7 +70,7 @@
   color: var(--global-text-color);
   margin: 0.75rem 0 0.5rem 0;
   padding-bottom: 0.75rem;
-  border-bottom: 1px solid rgba(17, 153, 158, 0.12);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .intro-section .bio-full a {
@@ -109,7 +109,7 @@
 
 /* Contact Box */
 .contact-box {
-  background-color: var(--global-thead-color);
+  background-color: #ffffff;
   border-radius: 8px;
   padding: 1rem 1.5rem;
   margin: 1.5rem 0;
@@ -135,7 +135,7 @@
   top: 5px;
   bottom: 5px;
   width: 3px;
-  background: linear-gradient(to bottom, var(--global-base-color), rgba(17, 153, 158, 0.2));
+  background: linear-gradient(to bottom, #000000, rgba(0, 0, 0, 0.2));
   border-radius: 2px;
 }
 
@@ -321,6 +321,16 @@
   height: 1px;
   background: linear-gradient(to right, transparent, var(--global-border-color), transparent);
   margin: 2rem 0;
+}
+
+/* Links - keep them black but distinguishable with an underline */
+.page__content a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.publication-links .pub-link {
+  text-decoration: none;
 }
 
 /* Lists */
@@ -515,7 +525,7 @@
   font-weight: 500;
   padding: 0.35rem 0.8rem;
   border-radius: 20px;
-  border: 1px solid rgba(17, 153, 158, 0.15);
+  border: 1px solid rgba(0, 0, 0, 0.15);
   transition: all 0.2s ease;
 }
 
