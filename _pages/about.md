@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div id="about-me" class="intro-section">
-  <p class="greeting">👋 Hi there! This is <strong>Mengfan Wu</strong></p>
+  <p class="greeting">Hi there, this is <strong>Mengfan Wu</strong></p>
   <p class="bio-full">
     I'm a third-year PhD student in Intelligence Science and Technology from 
     <a href="https://srias.tongji.edu.cn/main.htm">Shanghai Research Institute for Intelligent Autonomous Systems</a> & 
@@ -30,13 +30,13 @@ redirect_from:
 </div>
 
 <div class="contact-box">
-  <p>🤝 If you have any academic collaboration intentions, please feel free to email me at: <a href="mailto:mfwu@tongji.edu.cn">mfwu@tongji.edu.cn</a></p>
+  <p>For academic collaboration, please feel free to email me at <a href="mailto:mfwu@tongji.edu.cn">mfwu@tongji.edu.cn</a></p>
 </div>
 
 ---
 
 <div id="education"></div>
-## 🎓 Education
+## Education
 
 <div class="timeline">
   <div class="timeline-item">
@@ -82,7 +82,7 @@ redirect_from:
 ---
 
 <div id="experience"></div>
-## 💼 Experience
+## Experience
 
 <div class="experience-card">
   <div class="experience-header">
@@ -103,7 +103,7 @@ redirect_from:
 ---
 
 <div id="selected-publications"></div>
-## 📝 Selected Publications
+## Selected Publications
 
 <div class="publications-list">
 
@@ -119,7 +119,7 @@ redirect_from:
     <span class="publication-year">(2026)</span>
   </div>
   <div class="publication-links">
-    <a href="https://arxiv.org/abs/2604.03547" class="pub-link" target="_blank">📄 Paper</a>
+    <a href="https://arxiv.org/abs/2604.03547" class="pub-link" target="_blank">Paper ↗</a>
   </div>
 </div>
 
@@ -137,7 +137,7 @@ redirect_from:
     <span class="publication-year">11, 106 (2025)</span>
   </div>
   <div class="publication-links">
-    <a href="https://www.nature.com/articles/s41524-025-01583-9" class="pub-link" target="_blank">📄 Paper</a>
+    <a href="https://www.nature.com/articles/s41524-025-01583-9" class="pub-link" target="_blank">Paper ↗</a>
   </div>
 </div>
 
@@ -156,7 +156,7 @@ redirect_from:
     <span class="publication-year">13, 020601 (2025)</span>
   </div>
   <div class="publication-links">
-    <a href="https://pubs.aip.org/aip/apm/article/13/2/020601/3333679/AI-empowered-digital-design-of-zeolites-Progress" class="pub-link" target="_blank">📄 Paper</a>
+    <a href="https://pubs.aip.org/aip/apm/article/13/2/020601/3333679/AI-empowered-digital-design-of-zeolites-Progress" class="pub-link" target="_blank">Paper ↗</a>
   </div>
 </div>
 
@@ -174,7 +174,7 @@ redirect_from:
     <span class="publication-year">35, 2300848 (2023)</span>
   </div>
   <div class="publication-links">
-    <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202300848" class="pub-link" target="_blank">📄 Paper</a>
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202300848" class="pub-link" target="_blank">Paper ↗</a>
   </div>
 </div>
 
@@ -192,7 +192,7 @@ redirect_from:
     <span class="publication-year">14, 39081 (2022)</span>
   </div>
   <div class="publication-links">
-    <a href="https://pubs.acs.org/doi/10.1021/acsami.2c12001" class="pub-link" target="_blank">📄 Paper</a>
+    <a href="https://pubs.acs.org/doi/10.1021/acsami.2c12001" class="pub-link" target="_blank">Paper ↗</a>
   </div>
 </div>
 
@@ -210,7 +210,7 @@ redirect_from:
     <span class="publication-year">9, 076002 (2025)</span>
   </div>
   <div class="publication-links">
-    <a href="https://journals.aps.org/prmaterials/abstract/10.1103/l5mw-h2m7" class="pub-link" target="_blank">📄 Paper</a>
+    <a href="https://journals.aps.org/prmaterials/abstract/10.1103/l5mw-h2m7" class="pub-link" target="_blank">Paper ↗</a>
   </div>
 </div>
 
@@ -228,7 +228,7 @@ redirect_from:
     <span class="publication-year">12, 2417851 (2025)</span>
   </div>
   <div class="publication-links">
-    <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202417851" class="pub-link" target="_blank">📄 Paper</a>
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202417851" class="pub-link" target="_blank">Paper ↗</a>
   </div>
 </div>
 
@@ -246,7 +246,7 @@ redirect_from:
     <span class="publication-year">11, 2300579 (2023)</span>
   </div>
   <div class="publication-links">
-    <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adom.202300579" class="pub-link" target="_blank">📄 Paper</a>
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adom.202300579" class="pub-link" target="_blank">Paper ↗</a>
   </div>
 </div>
 
@@ -264,7 +264,7 @@ redirect_from:
     <span class="publication-year">11, 2300256 (2023)</span>
   </div>
   <div class="publication-links">
-    <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202300256" class="pub-link" target="_blank">📄 Paper</a>
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202300256" class="pub-link" target="_blank">Paper ↗</a>
   </div>
 </div>
 
