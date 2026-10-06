@@ -28,7 +28,7 @@ let setTheme = (theme) => {
     theme ||
     localStorage.getItem("theme") ||
     $("html").attr("data-theme") ||
-    browserPref;
+    "light";
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
@@ -93,9 +93,10 @@ $(document).ready(function () {
   // If the user hasn't chosen a theme, follow the OS preference
   setTheme();
   window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
+        .addEventListener("change", () => {
+          // Default to the light theme regardless of the OS color-scheme preference
           if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
+            setTheme("light");
           }
         });
 
