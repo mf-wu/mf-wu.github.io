@@ -138,10 +138,9 @@ $hairline-2 : #f1f1f1;
 .contact-box {
   background: transparent;
   border: none;
-  border-top: 1px solid $hairline;
   border-radius: 0;
-  padding: 0.9rem 0 0;
-  margin: 1.75rem 0 0;
+  padding: 0;
+  margin: 1.5rem 0 0 0;
 }
 
 .contact-box p {
@@ -377,18 +376,22 @@ $hairline-2 : #f1f1f1;
 }
 
 .publication-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 1.5rem;
+
   background: transparent;
   border: none;
   border-radius: 0;
   box-shadow: none;
-  padding: 1.2rem 0;
+  padding: 1.35rem 0;
   margin: 0;
   border-bottom: 1px solid $hairline-2;
   transition: none;
 }
 
 .publication-item:first-child {
-  padding-top: 0.4rem;
+  padding-top: 0.5rem;
 }
 
 .publication-item:last-child {
@@ -401,9 +404,10 @@ $hairline-2 : #f1f1f1;
 }
 
 .publication-authors {
+  grid-column: 1 / -1;
   font-size: 0.85rem;
   color: $muted;
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.4rem;
   line-height: 1.5;
 }
 
@@ -413,48 +417,69 @@ $hairline-2 : #f1f1f1;
 }
 
 .publication-title {
+  grid-column: 1 / -1;
   font-family: $serif;
   font-weight: 400;
   color: $ink;
   font-size: 1.02rem;
   line-height: 1.55;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.6rem;
 }
 
+/* Citation + badges on the left, Paper link anchored to the right */
 .publication-journal {
-  font-size: 0.84rem;
-  line-height: 1.6;
-  margin-bottom: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0.55rem;
+  min-width: 0;
+  line-height: 1.7;
 }
 
 .journal-name {
+  font-size: 0.84rem;
   font-weight: 400;
-  color: $muted;
-  margin-right: 0.55rem;
+  color: $ink-soft;
 }
 
 .journal-name em {
   font-style: italic;
 }
 
+.publication-year {
+  font-size: 0.84rem;
+  color: $muted;
+}
+
 .journal-badge {
-  color: $faint;
-  font-weight: 400;
-  margin-right: 0.55rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: $muted;
+  background: #fafafa;
+  border: 1px solid $hairline;
+  border-radius: 3px;
+  padding: 0.14rem 0.5rem;
+  line-height: 1.5;
+  white-space: nowrap;
 }
 
 .journal-if {
+  font-size: 0.74rem;
   color: $faint;
   font-weight: 400;
+  white-space: nowrap;
 }
 
-.publication-year {
-  color: $faint;
+.publication-links {
+  align-self: center;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .publication-links .pub-link {
-  display: inline-block;
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   color: $muted;
   text-decoration: none;
   border-bottom: none;

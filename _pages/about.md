@@ -126,7 +126,7 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>npj Computational Materials</em></span>
-    <span class="publication-year">11, 106 (2025)</span>.
+    <span class="publication-year">11, 106 (2025)</span>
     <span class="journal-badge">JCR Q1 Top</span>
     <span class="journal-if">IF=11.9</span>
   </div>
@@ -144,7 +144,7 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>APL Materials</em></span>
-    <span class="publication-year">13, 020601 (2025)</span>.
+    <span class="publication-year">13, 020601 (2025)</span>
     <span class="journal-badge">Editor's Pick</span>
     <span class="journal-badge">JCR Q2</span>
     <span class="journal-if">IF=4.5</span>
@@ -163,7 +163,7 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Advanced Materials</em></span>
-    <span class="publication-year">35, 2300848 (2023)</span>.
+    <span class="publication-year">35, 2300848 (2023)</span>
     <span class="journal-badge">JCR Q1 Top</span>
     <span class="journal-if">IF=26.8</span>
   </div>
@@ -181,7 +181,7 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>ACS Applied Materials & Interfaces</em></span>
-    <span class="publication-year">14, 39081 (2022)</span>.
+    <span class="publication-year">14, 39081 (2022)</span>
     <span class="journal-badge">JCR Q1</span>
     <span class="journal-if">IF=8.2</span>
   </div>
@@ -199,7 +199,7 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Physical Review Materials</em></span>
-    <span class="publication-year">9, 076002 (2025)</span>.
+    <span class="publication-year">9, 076002 (2025)</span>
     <span class="journal-badge">JCR Q2</span>
     <span class="journal-if">IF=3.4</span>
   </div>
@@ -217,7 +217,7 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Advanced Science</em></span>
-    <span class="publication-year">12, 2417851 (2025)</span>.
+    <span class="publication-year">12, 2417851 (2025)</span>
     <span class="journal-badge">JCR Q1 Top</span>
     <span class="journal-if">IF=14.1</span>
   </div>
@@ -235,7 +235,7 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Advanced Optical Materials</em></span>
-    <span class="publication-year">11, 2300579 (2025)</span>.
+    <span class="publication-year">11, 2300579 (2025)</span>
     <span class="journal-badge">JCR Q1</span>
     <span class="journal-if">IF=7.2</span>
   </div>
@@ -253,7 +253,7 @@ redirect_from:
   </div>
   <div class="publication-journal">
     <span class="journal-name"><em>Advanced Optical Materials</em></span>
-    <span class="publication-year">11, 2300256 (2023)</span>.
+    <span class="publication-year">11, 2300256 (2023)</span>
     <span class="journal-badge">JCR Q1</span>
     <span class="journal-if">IF=7.2</span>
   </div>
