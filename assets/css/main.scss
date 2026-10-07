@@ -537,6 +537,13 @@ $hairline-2 : #f1f1f1;
     margin: 0;
     padding: 0;
   }
+
+  /* Align the masthead nav row with the same centered group */
+  .masthead__inner-wrap .greedy-nav {
+    width: 83.0508474576%; /* sidebar + gutter + page */
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 /* Responsive */
