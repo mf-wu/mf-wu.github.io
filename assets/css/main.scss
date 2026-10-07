@@ -502,11 +502,12 @@ $hairline-2 : #f1f1f1;
   letter-spacing: 0.03em;
 }
 
-/* Oval avatar */
+/* Plain avatar — show the original photo without frame or shaping */
 .author__avatar img {
-  border-radius: 45% / 55% !important;
-  object-fit: cover !important;
-  aspect-ratio: 3/4;
+  max-width: 100%;
+  border-radius: 0;
+  border: none;
+  padding: 0;
 }
 
 /* Center the sidebar + content group within the viewport (≥925px) */
