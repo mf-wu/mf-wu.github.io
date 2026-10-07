@@ -55,6 +55,10 @@ $hairline   : #e8e8e8;
 $hairline-2 : #f1f1f1;
 
 /* Masthead refinement */
+.greedy-nav {
+  font-size: 0.93em; /* overall nav text slightly smaller */
+}
+
 .greedy-nav .site-title {
   font-weight: 500;
   letter-spacing: 0.01em;
@@ -81,7 +85,7 @@ $hairline-2 : #f1f1f1;
 
 .intro-section .greeting {
   font-family: $serif;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3;
   margin: 0 0 1.25rem 0;
@@ -94,7 +98,7 @@ $hairline-2 : #f1f1f1;
 
 .intro-section .bio-full,
 .intro-section .research-focus {
-  font-size: 0.92rem;
+  font-size: 0.87rem;
   line-height: 1.85;
   color: $ink-soft;
   margin: 0 0 1rem 0;
@@ -119,7 +123,7 @@ $hairline-2 : #f1f1f1;
 .research-topics li {
   position: relative;
   padding-left: 1.1rem;
-  font-size: 0.88rem;
+  font-size: 0.83rem;
   color: $ink-soft;
   margin-bottom: 0.4rem;
 }
@@ -145,7 +149,7 @@ $hairline-2 : #f1f1f1;
 
 .contact-box p {
   margin: 0;
-  font-size: 0.86rem;
+  font-size: 0.81rem;
   color: $muted;
 }
 
@@ -161,7 +165,7 @@ $hairline-2 : #f1f1f1;
   gap: 1.1rem;
   font-family: $serif;
   font-weight: 400;
-  font-size: 1.05rem;
+  font-size: 0.98rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: $ink;
@@ -250,7 +254,7 @@ $hairline-2 : #f1f1f1;
 
 .timeline-school-name {
   color: $ink;
-  font-size: 0.98rem;
+  font-size: 0.92rem;
   line-height: 1.35;
   margin: 0;
 }
@@ -260,7 +264,7 @@ $hairline-2 : #f1f1f1;
 }
 
 .timeline-degree {
-  font-size: 0.86rem;
+  font-size: 0.81rem;
   color: $muted;
   margin: 0;
   line-height: 1.35;
@@ -331,7 +335,7 @@ $hairline-2 : #f1f1f1;
 
 .experience-company-name {
   font-weight: 600;
-  font-size: 0.98rem;
+  font-size: 0.92rem;
   color: $ink;
   line-height: 1.35;
   margin: 0;
@@ -340,7 +344,7 @@ $hairline-2 : #f1f1f1;
 .experience-role {
   font-weight: 400;
   color: $muted;
-  font-size: 0.86rem;
+  font-size: 0.81rem;
   line-height: 1.35;
   margin: 0;
 }
@@ -364,7 +368,7 @@ $hairline-2 : #f1f1f1;
 }
 
 .experience-location {
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   color: $muted;
   line-height: 1.35;
   margin: 0;
@@ -405,7 +409,7 @@ $hairline-2 : #f1f1f1;
 
 .publication-authors {
   grid-column: 1 / -1;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: $muted;
   margin-bottom: 0.4rem;
   line-height: 1.5;
@@ -421,7 +425,7 @@ $hairline-2 : #f1f1f1;
   font-family: $serif;
   font-weight: 400;
   color: $ink;
-  font-size: 1.02rem;
+  font-size: 0.95rem;
   line-height: 1.55;
   margin-bottom: 0.6rem;
 }
@@ -437,7 +441,7 @@ $hairline-2 : #f1f1f1;
 }
 
 .journal-name {
-  font-size: 0.84rem;
+  font-size: 0.8rem;
   font-weight: 400;
   color: $ink-soft;
 }
@@ -447,7 +451,7 @@ $hairline-2 : #f1f1f1;
 }
 
 .publication-year {
-  font-size: 0.84rem;
+  font-size: 0.8rem;
   color: $muted;
 }
 
@@ -479,7 +483,7 @@ $hairline-2 : #f1f1f1;
 }
 
 .publication-links .pub-link {
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   color: $muted;
   text-decoration: none;
   border-bottom: none;
@@ -503,6 +507,36 @@ $hairline-2 : #f1f1f1;
   border-radius: 45% / 55% !important;
   object-fit: cover !important;
   aspect-ratio: 3/4;
+}
+
+/* Center the sidebar + content group within the viewport (≥925px) */
+@media (min-width: 57.8125em) {
+  #main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    column-gap: 1.6949152542%; /* one Susy gutter */
+  }
+
+  .sidebar {
+    position: sticky;
+    top: 1.5em;
+    height: auto;
+    overflow: visible;
+    padding-top: 0;
+    float: none;
+    flex: 0 0 15.2542372881%;
+    width: 15.2542372881%;
+    margin: 0;
+  }
+
+  .page {
+    float: none;
+    flex: 0 0 66.1016949153%;
+    width: 66.1016949153%;
+    margin: 0;
+    padding: 0;
+  }
 }
 
 /* Responsive */
