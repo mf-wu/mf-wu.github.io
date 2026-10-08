@@ -30,7 +30,7 @@ redirect_from:
 </div>
 
 <div class="contact-box">
-  <p>For academic collaboration, please feel free to <a href="mailto:mfwu@tongji.edu.cn">email me</a></p>
+  <p>If you have any questions about my research or are interested in collaboration, please feel free to email me.</p>
 </div>
 
 <div id="education"></div>
