@@ -313,6 +313,10 @@ $hairline-2 : #f1f1f1;
   box-shadow: none;
 }
 
+.experience-card + .experience-card {
+  margin-top: 1.25rem;
+}
+
 .experience-header {
   display: flex;
   justify-content: space-between;
