@@ -85,12 +85,28 @@ redirect_from:
     <div class="experience-company-with-logo">
       <span class="company-logo microsoft"></span>
       <div class="experience-company-text">
+        <div class="experience-company-name">Microsoft Research Asia</div>
+        <div class="experience-role">Research Intern</div>
+      </div>
+    </div>
+    <div class="experience-right">
+      <span class="experience-date">Jul. 2025 – Sep. 2025</span>
+      <span class="experience-location">Shanghai, China</span>
+    </div>
+  </div>
+</div>
+
+<div class="experience-card">
+  <div class="experience-header">
+    <div class="experience-company-with-logo">
+      <span class="company-logo microsoft"></span>
+      <div class="experience-company-text">
         <div class="experience-company-name">Microsoft Research AI for Science</div>
         <div class="experience-role">Research Intern</div>
       </div>
     </div>
     <div class="experience-right">
-      <span class="experience-date">Apr. 2025 – Sep. 2025</span>
+      <span class="experience-date">Apr. 2025 – Jul. 2025</span>
       <span class="experience-location">Shanghai, China</span>
     </div>
   </div>
