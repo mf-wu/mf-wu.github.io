@@ -284,3 +284,65 @@ redirect_from:
 <div style="text-align: center; margin-top: 1.5rem; color: var(--global-text-color-light);">
   <small><sup>#</sup> Equal contribution &nbsp;|&nbsp; <sup>*</sup> Corresponding author</small>
 </div>
+
+<div id="awards"></div>
+## Awards
+
+<div class="awards-list">
+
+<div class="award-item">
+  <div class="award-info">
+    <div class="award-name">Outstanding Student Award</div>
+    <div class="award-issuer">Tongji University, China</div>
+  </div>
+  <div class="award-date">2024 — 2025</div>
+</div>
+
+<div class="award-item">
+  <div class="award-info">
+    <div class="award-name">National Scholarship for Doctoral Students</div>
+    <div class="award-issuer">China</div>
+  </div>
+  <div class="award-date">2024 — 2025</div>
+</div>
+
+<div class="award-item">
+  <div class="award-info">
+    <div class="award-name">Outstanding Scholarship for Incoming Doctoral Students</div>
+    <div class="award-issuer">Tongji University, China</div>
+  </div>
+  <div class="award-date">2022 — 2023</div>
+</div>
+
+<div class="award-item">
+  <div class="award-info">
+    <div class="award-name">Outstanding Student Award</div>
+    <div class="award-issuer">University of Chinese Academy of Sciences, China</div>
+  </div>
+  <div class="award-date">2020 — 2021</div>
+</div>
+
+</div>
+
+<div id="conferences"></div>
+## Conferences
+
+<div class="conferences-list">
+
+<div class="conference-item">
+  <div class="conference-info">
+    <div class="conference-name">Conference of Condensed Matter Physics 2026</div>
+    <div class="conference-meta">Poster · Liyang, China</div>
+  </div>
+  <div class="conference-date">Jun. 2026</div>
+</div>
+
+<div class="conference-item">
+  <div class="conference-info">
+    <div class="conference-name">3rd Asia-Europe Symposium on Chemistry and Materials</div>
+    <div class="conference-meta">Poster · Ürümqi, China <span class="journal-badge">Best Poster Award</span></div>
+  </div>
+  <div class="conference-date">Aug. 2025</div>
+</div>
+
+</div>

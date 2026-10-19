@@ -378,6 +378,66 @@ $hairline-2 : #f1f1f1;
   margin: 0;
 }
 
+/* Awards & Conferences — CV-style list separated by hairlines */
+.awards-list,
+.conferences-list {
+  margin-top: 0.5rem;
+}
+
+.award-item,
+.conference-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 1.5rem;
+  align-items: baseline;
+
+  background: transparent;
+  padding: 0.9rem 0;
+  margin: 0;
+  border-bottom: 1px solid $hairline-2;
+}
+
+.award-item:first-child,
+.conference-item:first-child {
+  padding-top: 0.5rem;
+}
+
+.award-item:last-child,
+.conference-item:last-child {
+  border-bottom: none;
+}
+
+.award-info,
+.conference-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-width: 0;
+}
+
+.award-name,
+.conference-name {
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: $ink;
+  line-height: 1.35;
+}
+
+.award-issuer,
+.conference-meta {
+  font-size: 0.81rem;
+  color: $muted;
+  line-height: 1.5;
+}
+
+.award-date,
+.conference-date {
+  font-family: $monospace;
+  font-size: 0.76rem;
+  color: $faint;
+  white-space: nowrap;
+}
+
 /* Publications — CV-style list separated by hairlines */
 .publications-list {
   margin-top: 0.5rem;
