@@ -301,7 +301,7 @@ redirect_from:
 <div class="award-item">
   <div class="award-info">
     <div class="award-name">National Scholarship for Doctoral Students</div>
-    <div class="award-issuer">China</div>
+    <div class="award-issuer">Ministry of Education, China</div>
   </div>
   <div class="award-date">2024 — 2025</div>
 </div>
