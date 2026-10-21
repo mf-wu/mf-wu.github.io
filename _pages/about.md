@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-seo_title: "Mengfan Wu - Homepage"
+seo_title: "Mengfan Wu | Homepage"
 author_profile: true
 redirect_from: 
   - /about/
