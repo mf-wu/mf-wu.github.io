@@ -13,7 +13,8 @@
 {% endif %}
 
 {% if seo_title %}
-  {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
+  {% comment %}Escape pipes before markdownify so kramdown does not treat them as table syntax{% endcomment %}
+  {% assign seo_title = seo_title | replace: "|", "\\|" | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
 {% if site.url %}
