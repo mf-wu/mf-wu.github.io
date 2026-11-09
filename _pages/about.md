@@ -305,33 +305,29 @@ redirect_from:
 <div class="awards-list">
 
 <div class="award-item">
-  <div class="award-info">
-    <div class="award-name">Outstanding Student Award</div>
-    <div class="award-issuer">Tongji University, China</div>
+  <div class="award-line">
+    <span class="award-name">Outstanding Student Award</span><span class="award-issuer">, Tongji University, China</span>
   </div>
   <div class="award-date">2024 — 2025</div>
 </div>
 
 <div class="award-item">
-  <div class="award-info">
-    <div class="award-name">National Scholarship for Doctoral Students</div>
-    <div class="award-issuer">Ministry of Education, China</div>
+  <div class="award-line">
+    <span class="award-name">National Scholarship for Doctoral Students</span><span class="award-issuer">, Ministry of Education, China</span>
   </div>
   <div class="award-date">2024 — 2025</div>
 </div>
 
 <div class="award-item">
-  <div class="award-info">
-    <div class="award-name">Outstanding Scholarship for Incoming Doctoral Students</div>
-    <div class="award-issuer">Tongji University, China</div>
+  <div class="award-line">
+    <span class="award-name">Outstanding Scholarship for Incoming Doctoral Students</span><span class="award-issuer">, Tongji University, China</span>
   </div>
   <div class="award-date">2022 — 2023</div>
 </div>
 
 <div class="award-item">
-  <div class="award-info">
-    <div class="award-name">Outstanding Student Award</div>
-    <div class="award-issuer">University of Chinese Academy of Sciences, China</div>
+  <div class="award-line">
+    <span class="award-name">Outstanding Student Award</span><span class="award-issuer">, University of Chinese Academy of Sciences, China</span>
   </div>
   <div class="award-date">2020 — 2021</div>
 </div>
@@ -344,33 +340,29 @@ redirect_from:
 <div class="conferences-list">
 
 <div class="conference-item">
-  <div class="conference-info">
-    <div class="conference-name">The 10th International Forum of Materials Genome Engineering</div>
-    <div class="conference-meta">Invited Speaker · Jinan, China</div>
+  <div class="conference-line">
+    <span class="conference-name">The 10th International Forum of Materials Genome Engineering</span><span class="conference-meta"> · Invited Speaker · Jinan, China</span>
   </div>
   <div class="conference-date">Nov. 2026</div>
 </div>
 
 <div class="conference-item">
-  <div class="conference-info">
-    <div class="conference-name">Chinese Physical Society Fall Meeting</div>
-    <div class="conference-meta">Poster · Changsha, China</div>
+  <div class="conference-line">
+    <span class="conference-name">Chinese Physical Society Fall Meeting</span><span class="conference-meta"> · Poster · Changsha, China</span>
   </div>
   <div class="conference-date">Oct. 2026</div>
 </div>
 
 <div class="conference-item">
-  <div class="conference-info">
-    <div class="conference-name">Conference of Condensed Matter Physics 2026</div>
-    <div class="conference-meta">Poster · Liyang, China</div>
+  <div class="conference-line">
+    <span class="conference-name">Conference of Condensed Matter Physics 2026</span><span class="conference-meta"> · Poster · Liyang, China</span>
   </div>
   <div class="conference-date">Jun. 2026</div>
 </div>
 
 <div class="conference-item">
-  <div class="conference-info">
-    <div class="conference-name">3rd Asia-Europe Symposium on Chemistry and Materials</div>
-    <div class="conference-meta">Poster · Ürümqi, China <span class="journal-badge">Best Poster Award</span></div>
+  <div class="conference-line">
+    <span class="conference-name">3rd Asia-Europe Symposium on Chemistry and Materials</span><span class="conference-meta"> · Poster · Ürümqi, China <span class="journal-badge">Best Poster Award</span></span>
   </div>
   <div class="conference-date">Aug. 2025</div>
 </div>
