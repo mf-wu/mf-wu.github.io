@@ -333,38 +333,3 @@ redirect_from:
 </div>
 
 </div>
-
-<div id="conferences"></div>
-## Conferences
-
-<div class="conferences-list">
-
-<div class="conference-item">
-  <div class="conference-line">
-    <span class="conference-name">The 10th International Forum of Materials Genome Engineering</span><span class="conference-meta"> · Invited Speaker · Jinan, China</span>
-  </div>
-  <div class="conference-date">Nov. 2026</div>
-</div>
-
-<div class="conference-item">
-  <div class="conference-line">
-    <span class="conference-name">Chinese Physical Society Fall Meeting</span><span class="conference-meta"> · Poster · Changsha, China</span>
-  </div>
-  <div class="conference-date">Oct. 2026</div>
-</div>
-
-<div class="conference-item">
-  <div class="conference-line">
-    <span class="conference-name">Conference of Condensed Matter Physics 2026</span><span class="conference-meta"> · Poster · Liyang, China</span>
-  </div>
-  <div class="conference-date">Jun. 2026</div>
-</div>
-
-<div class="conference-item">
-  <div class="conference-line">
-    <span class="conference-name">3rd Asia-Europe Symposium on Chemistry and Materials</span><span class="conference-meta"> · Poster · Ürümqi, China <span class="journal-badge">Best Poster Award</span></span>
-  </div>
-  <div class="conference-date">Aug. 2025</div>
-</div>
-
-</div>

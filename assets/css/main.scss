@@ -378,14 +378,12 @@ $hairline-2 : #f1f1f1;
   margin: 0;
 }
 
-/* Awards & Conferences — compact single-line CV rows, whitespace only */
-.awards-list,
-.conferences-list {
+/* Awards — compact single-line CV rows, whitespace only */
+.awards-list {
   margin-top: 0.5rem;
 }
 
-.award-item,
-.conference-item {
+.award-item {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
   column-gap: 1.5rem;
@@ -396,13 +394,11 @@ $hairline-2 : #f1f1f1;
   margin: 0;
 }
 
-.award-item:first-child,
-.conference-item:first-child {
+.award-item:first-child {
   padding-top: 0.35rem;
 }
 
-.award-line,
-.conference-line {
+.award-line {
   font-family: $serif;
   font-size: 0.95rem;
   line-height: 1.55;
@@ -410,20 +406,17 @@ $hairline-2 : #f1f1f1;
   min-width: 0;
 }
 
-.award-name,
-.conference-name {
+.award-name {
   font-weight: 400;
   color: $ink;
 }
 
-.award-issuer,
-.conference-meta {
+.award-issuer {
   font-weight: 400;
   color: $muted;
 }
 
-.award-date,
-.conference-date {
+.award-date {
   font-family: $monospace;
   font-size: 0.76rem;
   color: $faint;
