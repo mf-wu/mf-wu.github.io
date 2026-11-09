@@ -209,6 +209,20 @@ redirect_from:
 
 <div class="publication-item">
   <div class="publication-authors">
+    J. Tan<sup>#</sup>, <span class="author-highlight">M. Wu</span><sup>#</sup>, C. Liu*, B. Zhu*, Z. Lu*
+  </div>
+  <div class="publication-title">
+    MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials
+  </div>
+  <div class="publication-journal">
+    <span class="journal-name"><em>NeurIPS 2026</em></span>
+    <span class="publication-year">(2026)</span>
+    <span class="journal-badge">Accepted</span>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-authors">
     J. Hu, <span class="author-highlight">M. Wu</span>*, J. Ren*
   </div>
   <div class="publication-title">
@@ -328,6 +342,22 @@ redirect_from:
 ## Conferences
 
 <div class="conferences-list">
+
+<div class="conference-item">
+  <div class="conference-info">
+    <div class="conference-name">The 10th International Forum of Materials Genome Engineering</div>
+    <div class="conference-meta">Invited Speaker · Jinan, China</div>
+  </div>
+  <div class="conference-date">Nov. 2026</div>
+</div>
+
+<div class="conference-item">
+  <div class="conference-info">
+    <div class="conference-name">Chinese Physical Society Fall Meeting</div>
+    <div class="conference-meta">Poster · Changsha, China</div>
+  </div>
+  <div class="conference-date">Oct. 2026</div>
+</div>
 
 <div class="conference-item">
   <div class="conference-info">
