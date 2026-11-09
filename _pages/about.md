@@ -209,7 +209,7 @@ redirect_from:
 
 <div class="publication-item">
   <div class="publication-authors">
-    J. Tan<sup>#</sup>, <span class="author-highlight">M. Wu</span><sup>#</sup>, C. Liu*, B. Zhu*, Z. Lu*
+    J. Tan<sup>#</sup>, <span class="author-highlight">M. Wu</span><sup>#</sup>, C. Liu*, B. Zhu*, Z. Lu* et al.
   </div>
   <div class="publication-title">
     MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials
