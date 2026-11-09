@@ -215,7 +215,7 @@ redirect_from:
     MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials
   </div>
   <div class="publication-journal">
-    <span class="journal-name"><em>NeurIPS 2026</em></span>
+    <span class="journal-name"><em>Neural Information Processing Systems (NeurIPS)</em></span>
     <span class="publication-year">(2026)</span>
     <span class="journal-badge">Accepted</span>
   </div>
