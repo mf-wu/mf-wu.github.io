@@ -378,7 +378,7 @@ $hairline-2 : #f1f1f1;
   margin: 0;
 }
 
-/* Awards & Conferences — compact single-line CV rows separated by hairlines */
+/* Awards & Conferences — compact single-line CV rows, whitespace only */
 .awards-list,
 .conferences-list {
   margin-top: 0.5rem;
@@ -392,25 +392,20 @@ $hairline-2 : #f1f1f1;
   align-items: baseline;
 
   background: transparent;
-  padding: 0.7rem 0;
+  padding: 0.8rem 0;
   margin: 0;
-  border-bottom: 1px solid $hairline-2;
 }
 
 .award-item:first-child,
 .conference-item:first-child {
-  padding-top: 0.5rem;
-}
-
-.award-item:last-child,
-.conference-item:last-child {
-  border-bottom: none;
+  padding-top: 0.35rem;
 }
 
 .award-line,
 .conference-line {
-  font-size: 0.92rem;
-  line-height: 1.45;
+  font-family: $serif;
+  font-size: 0.95rem;
+  line-height: 1.55;
   color: $ink;
   min-width: 0;
 }
@@ -517,6 +512,7 @@ $hairline-2 : #f1f1f1;
 }
 
 .journal-badge {
+  font-family: $sans-serif;
   font-size: 0.68rem;
   letter-spacing: 0.05em;
   text-transform: uppercase;
