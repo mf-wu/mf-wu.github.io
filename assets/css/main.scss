@@ -102,14 +102,10 @@ $hairline-2 : #f1f1f1;
   margin: 0 0 1rem 0;
 }
 
+/* About-me text: uniform color and weight throughout; links only reveal on hover */
 .intro-section .bio-full a {
-  color: $ink;
-  font-weight: 500;
-}
-
-.intro-section .research-focus strong {
-  color: $ink;
-  font-weight: 600;
+  color: inherit;
+  font-weight: inherit;
 }
 
 .research-topics {
