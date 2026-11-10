@@ -476,6 +476,8 @@ $hairline-2 : #f1f1f1;
 .author-highlight {
   font-weight: 600;
   color: $ink;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .publication-title {
