@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<div id="about-me" class="intro-section">
+<div id="about-me"></div>
+## About me
+
+<div class="intro-section">
   <p class="greeting">Hi there, this is <strong>Mengfan Wu</strong></p>
   <p class="bio-full">
     I'm a fourth-year PhD student in Intelligence Science and Technology from
