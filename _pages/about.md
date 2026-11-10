@@ -12,7 +12,6 @@ redirect_from:
 ## About me
 
 <div class="intro-section">
-  <p class="greeting">Hi there, this is <strong>Mengfan Wu</strong></p>
   <p class="bio-full">
     I'm a fourth-year PhD student in Intelligence Science and Technology from
     <a href="https://srias.tongji.edu.cn/main.htm">Shanghai Research Institute for Intelligent Autonomous Systems</a> & 

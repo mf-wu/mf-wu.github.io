@@ -24,6 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mengfan Wu"
+  name_cn          : "（吴梦凡）"
   bio              : "PhD Student<br/>@Tongji University"
   location         : "Shanghai, China"
   email            : "mfwu@tongji.edu.cn"
