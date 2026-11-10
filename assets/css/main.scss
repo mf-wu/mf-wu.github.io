@@ -108,6 +108,11 @@ $hairline-2 : #f1f1f1;
   font-weight: inherit;
 }
 
+/* Neutralize the browser's default bold on <strong> for uniform text weight */
+.intro-section strong {
+  font-weight: inherit;
+}
+
 .research-topics {
   margin: 0.5rem 0 0 0;
   padding: 0;
