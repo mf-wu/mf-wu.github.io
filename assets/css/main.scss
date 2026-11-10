@@ -75,9 +75,9 @@ $hairline-2 : #f1f1f1;
 /* Chinese name directly under the sidebar author name */
 .author__name-cn {
   font-family: $sans-serif;
-  /* Slightly larger than the English name ($type-size-5 = 0.93em) to balance
-     the lighter regular weight and visually match the bold English heading */
-  font-size: 1.05em;
+  /* One scale step above the English name ($type-size-5 = 0.93em): the dense
+     Chinese glyphs at regular weight need the larger size to read in balance */
+  font-size: $type-size-4;
   font-weight: 400;
   color: $muted;
   margin: 0;
