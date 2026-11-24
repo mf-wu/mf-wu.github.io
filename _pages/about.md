@@ -221,6 +221,9 @@ redirect_from:
     <span class="publication-year">(2026)</span>
     <span class="journal-badge">Accepted</span>
   </div>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2611.11226" class="pub-link" target="_blank">Paper ↗</a>
+  </div>
 </div>
 
 <div class="publication-item">
